@@ -5,7 +5,6 @@ package main
 
 import "fmt"
 
-// ahmadrezanourozi represents my professional profile 🚀
 type ahmadrezanourozi struct {
 	Role       string
 	University string
@@ -15,7 +14,6 @@ type ahmadrezanourozi struct {
 	Interests  []string
 }
 
-// NewAhmadreza initializes a new profile instance 🛠️
 func NewAhmadreza() *ahmadrezanourozi {
 	return &ahmadrezanourozi{
 		Role:       "AI Engineer & Researcher",
