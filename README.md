@@ -28,14 +28,16 @@ month-long Excel process for revenue planning with an AWS data pipeline and dash
 |---|---|---|
 | [Seeding QDArchive](https://github.com/Ahmadrezanourozii/Seeding-QDArchive) | Applied Software Engineering for AI project (FAU, SoSe 2026): harvesting, validating and classifying qualitative-research datasets from Zenodo, CESSDA, Dataverse and others — 3,852 verified QDA projects, > 270 GB | Python, asyncio / aiohttp, SQLite |
 | [Project Time Series](https://github.com/Ahmadrezanourozii/Project-Time-Series) | Parkinson's disease detection from gait force signals with a Mamba state-space model, evaluated subject-wise; shows how window-wise splits inflate accuracy from 73 % to 98 % | PyTorch, mamba-ssm, scikit-learn |
+| [Diabetic retinopathy & macular edema](https://github.com/Ahmadrezanourozii/Automatic-detection-of-diabetic-retinopathy-and-grading-of-diabetic-macular-edema-using-CNN) | One CNN backbone with two ordinal heads grading retinopathy (5 grades) and macular edema (3 grades) from fundus photographs; external validation on 3,662 held-out APTOS images, QWK 0.90 — journal article in preparation (first author, with Alireza Chegeni) | PyTorch, timm, EfficientNet, Kaggle GPU |
 | [Deep Learning](https://github.com/Ahmadrezanourozii/Deep-Learning-Exercises) | Neural-network framework written from scratch in NumPy (CNNs, batch norm, dropout, RNN, LSTM) plus a PyTorch image-classification challenge — with [Mohammad Karbalaee](https://github.com/mo-karbalaee) | NumPy, PyTorch |
 | [Oktal](https://github.com/Ahmadrezanourozii/implement-oktal-a-C-library-for-numerical-simulation-) | C++ library for numerical simulation, Advanced Programming Techniques (FAU) | C++, CMake |
 | [Divar real-estate pipeline](https://github.com/Ahmadrezanourozii/divar-real-estate-pipeline) | Advanced Databases project: scraping housing ads, streaming them through Kafka into ClickHouse, orchestrated with Airflow | Airflow, Kafka, ClickHouse, Docker |
 | [Used-car pricing review](https://github.com/Ahmadrezanourozii/used-car-pricing-analysis) | Interview case study: a depreciation formula reverse-engineered from 5,500 listings (5.5 % error vs. 10.2 % for gradient boosting) and two decks for technical and management audiences | pandas, SciPy, scikit-learn |
 
-#### Publication
+#### Publications
 
-A. Nourozi, E. Abbasi — *Implementing artificial intelligence in personalized medicine: an MLP-based decision-making system* (DeepMLP) · [code](https://github.com/Ahmadrezanourozii/Maschinelles-Lernen-Implementierung-von-k-nstlicher-Intelligenz-in-der-personalisierten-Medizin)
+- A. Nourozi, A. Chegeni — *Automatic detection of diabetic retinopathy and grading of diabetic macular edema using CNNs* (in preparation) · [code](https://github.com/Ahmadrezanourozii/Automatic-detection-of-diabetic-retinopathy-and-grading-of-diabetic-macular-edema-using-CNN)
+- A. Nourozi, E. Abbasi — *Implementing artificial intelligence in personalized medicine: an MLP-based decision-making system* (DeepMLP) · [code](https://github.com/Ahmadrezanourozii/Maschinelles-Lernen-Implementierung-von-k-nstlicher-Intelligenz-in-der-personalisierten-Medizin)
 
 #### Tools
 
