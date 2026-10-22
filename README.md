@@ -9,7 +9,6 @@ I work on LLM agents, data pipelines and the evaluation of ML models.
 - B.Sc. Computer Science — Yazd University
 - BMW Group, Munich — since 06/2025
 - Erlangen, Germany · English C2 · German B2
-- ahmadreza.nourozi@fau.de
 
 #### Experience
 
