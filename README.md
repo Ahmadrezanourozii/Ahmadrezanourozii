@@ -17,10 +17,6 @@ I work on LLM agents, data pipelines and the evaluation of ML models.
 | BMW Group, Munich | Working Student, AI & Automation — Finance: Processes, Digitalization & Governance | 02/2026 – present |
 | BMW Group, Munich | Intern, Data Engineering — International Operations, Export Planning & Control | 06/2025 – 12/2025 |
 
-At BMW I built AI agents that turn tasks which used to take about two weeks into a few hours, ran around
-120 hours of AI training for data stewards in Finance, and, during the internship, replaced a manual
-month-long Excel process for revenue planning with an AWS data pipeline and dashboard.
-
 #### Selected projects
 
 | Project | What it is | Stack |
